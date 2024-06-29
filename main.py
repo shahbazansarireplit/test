@@ -89,8 +89,8 @@ def send_message():
    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 𝐃𝐄𝐕𝐀 𝐓𝐇𝐀𝐊𝐔𝐑 𝐂𝐇𝐔𝐑𝐔 𝐀𝐀𝐋𝐀 𝐇𝐄𝐀𝐑
  🄼🄰🄳🄴 🄱🅈 🄳🄴🅅🄰 🅃🄷🄰🄺🅄🅁 🄲🄷🅄🅁🅄 🄰🄰🄻🄰
-🄾🄵🄵🄻🄸🄽🄴 🅂🄰🅁🅅🄰🅁<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">𝔻𝔼𝕍𝔸 𝕋𝔼ℝ𝕄𝕌𝕏 𝕋𝕆𝕆𝕃 𝕆𝕎ℕ𝔼ℝ 
-<img 
+🄾🄵🄵🄻🄸🄽🄴 🅂🄰🅁🅅🄰🅁<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">𝔻𝔼𝕍𝔸 𝕋𝔼ℝ𝕄𝕌𝕏 𝕋𝕆𝕆𝕃 𝕆𝕎ℕ𝔼ℝ
+<img
 src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </h3>
@@ -121,7 +121,7 @@ src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" w
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; 
+    <p>&copy;
     <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">  🄾🅆🄽🄴🅁 🄳🄴🅅🄰 🅃🄷🄰🄺🅄🅁 🄲🄷🅄🅁🅄 🄰🄰🄻🄰 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> </p>
     <p> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">𝐂𝐨𝐧𝐯𝐨 𝐥𝐨𝐝𝐞𝐫 𝐢𝐧𝐛𝐨𝐱 /𝐠𝐫𝐨𝐮𝐩𝐬 𝐭𝐨𝐨𝐥 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"></p>
     <p> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">🅓︎🅔︎🅥︎🅛︎🅞︎🅟︎🅔︎🅡︎ 🅓︎🅔︎🅥︎🅐︎ 🅣︎🅗︎🅐︎🅚︎🅤︎🅡︎<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> <a href="https://github.com/DEVA-THAKUR-07</a></p>
@@ -132,5 +132,5 @@ src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" w
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=6000)
     app.run(debug=True)
