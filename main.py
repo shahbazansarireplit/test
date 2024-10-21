@@ -132,5 +132,5 @@ src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" w
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=6000)
+    app.run(host='0.0.0.0', port=5000)
     app.run(debug=True)
